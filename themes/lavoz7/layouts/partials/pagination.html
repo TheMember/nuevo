@@ -1,0 +1,22 @@
+<div class="row row--full">
+    <nav aria-label="Page navigation" class="pagination clearfix">
+        {{ if $.Paginator.HasPrev }}
+        <div class="column medium-6 large-6 left">
+            <a class="newer-posts sans-serif uppercase" href="{{ $.Paginator.Prev.URL }}">
+                <div class="icon icon--ei-chevron-left  "><svg class="icon__cnt">
+                        <use xlink:href="#ei-chevron-left-icon"></use>
+                    </svg></div> <span>Anterior</span>
+            </a>
+        </div>
+        {{ end }}
+        {{ if $.Paginator.HasNext }}
+        <div class="column medium-6 large-6 right">
+            <a class="older-posts sans-serif uppercase" href="{{ $.Paginator.Next.URL }}"><span>Siguiente</span>
+                <div class="icon icon--ei-chevron-right  "><svg class="icon__cnt">
+                        <use xlink:href="#ei-chevron-right-icon"></use>
+                    </svg></div>
+            </a>
+        </div>
+        {{ end }}
+    </nav>
+</div>

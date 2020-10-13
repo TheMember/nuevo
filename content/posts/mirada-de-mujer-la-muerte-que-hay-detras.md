@@ -1,0 +1,28 @@
+---
+title: "Mirada De Mujer La Muerte Que Hay Detras"
+slug: "mirada-de-mujer-la-muerte-que-hay-detras"
+date: 2018-05-27T17:34:59.000Z
+draft: false
+image: "/content/images/2018/05/mirada-mujer-la-muerte.png"
+tags : [
+    "inmortalidad-del-alma",
+
+]
+type: "post"
+---
+
+   He escuchado toda mi vida los peores cuentos sobre la muerte, y creo no ser la única, pero en realidad ¿qué es la muerte? ¿Es acaso que vivimos en un mundo donde nuestro único temor es morir? ¿Cómo moriremos o cuándo? A muchos les aterra la idea de morir lejos de su lugar de origen y a otros morir sin cumplir sus más anhelados sueños. Hace poco conocí un hombre que viajó desde Canadá a Perú solamente para conocer ciertas ruinas históricas. Este hombre estudió desde muy joven todo al respecto, y ya de anciano finalmente pudo conocer en vivo lo que había estudiado en libros y documentos. Lo triste es que un paro cardíaco cerró sus ojos después de cumplir su sueño. Entonces, si lo analizamos bien, muchos vivimos por un sueño que solo en algunas ocasiones podremos cumplir, ya que no todos compartimos las condiciones económicas de este anciano, o quizá la misma determinación para llevar a cabo su anhelo.
+
+ Estamos en el siglo XXI, donde todo lo que nos proponemos lo podemos cumplir, sin temor alguno. La ciencia ha aumentado de manera indiscutida y uno puede mantener sus recuerdos vivos mediante fotos, videos, y todo cuanto la inteligencia humana haya podido crear para este fin, sin vivir bajo la sombra de la muerte. No debemos ver a la muerte como una amenaza permanente, después de todo en algún momento de nuestra vida ella tocará a nuestra puerta y no va a esperar a que completemos nuestros asuntos pendientes. No es la muerte lo que debe preocuparnos sino la vida que llevamos, el recuerdo que vamos a dejar en aquellos que nos aman, en lo mucho que pudimos hacer en el diario vivir, las metas a las que alcanzamos y los sueños que cumplimos. Es decir, la vida es para buscar cada día la felicidad, lo que realmente nos da momentos en los que podemos decir que somos muy bendecidos. En este sentido son precisas las palabras de Confucio: “uno no sabe aún que es la vida, como podría conocer qué es la muerte”. Este filósofo fundamentaba su teoría hacia la vida y la perfección de uno mismo, lo cual es curioso ya que la Biblia nos dice que debemos tener el carácter perfecto de Cristo; un filósofo que creía en lo que podía ver y tocar tenía en cuenta las palabras de un libro diseñado por Dios, lo cual significa que la vida es mucho más de lo que la muerte puede representar para nosotros.
+
+ Como jóvenes cristianos tenemos un extra que nos hace vivir mucho mejor, una sola palabra que puede cambiar el rumbo de nuestro camino, aun si estamos errados: esperanza. Si tenemos fe en Dios tendremos esperanza en nuestros corazones, y así la muerte también será vencida. Es cierto que aún con la esperanza viva en nosotros no podemos evitar el dolor y la nostalgia de perder a alguien, y eso lo sé muy bien; es una herida causada por el enemigo de todos, como si un golpe en el corazón fuera a derrumbarte y la sola idea de no ver, sea por corto o largo período de tiempo, a una persona que amas mucho te lastime por dentro. Entonces debemos aferrarnos con más fuerza a la esperanza y el consuelo del Altísimo, no queda más. Las heridas con el tiempo cierran y solo queda el bello recuerdo de alguien y la esperanza de que si vives en Cristo, lo volverás a ver pronto, y la vida debe seguir; el continuo tropezar y levantarse del diario vivir debe avanzar (quizá un poco lento), pero no debe detenerse ya que si nos quedamos viviendo en las penas del pasado tendremos muerto el corazón y el espíritu y continuaremos viviendo solamente porque sí, sin motivo ni razón, y eso tampoco es vivir.
+
+ Muchos escriben sobre la muerte, aquellos que las han visto de cerca, la ven como un nuevo inicio, un chance más de hacer las cosas bien. Lo curioso es que un 50% lo cumple y el otro pues recibe una y otra vez estos inicios hasta que no hay más. Leonardo DaVinci decía: “Así como una jornada bien empleada produce un dulce sueño, así una vida bien usada causa una dulce muerte”. Tengamos entonces una buena jornada en nuestra vida.
+
+ No es un mito, la muerte existe, algunos se preocupan por ella y discuten sobre formas de comunicarse con los que ya no están, usando las emociones de aquellos que los extrañan para crear ambientes fuera de lo normal, los cuales corresponden más a deseos profundos del corazón que hechos reales, jugando con los sentimientos de las personas, pero la Biblia también se manifiesta al respecto: “Porque los que viven saben que han de morir; pero los muertos nada saben, ni tienen más paga; porque su memoria es puesta en olvido. También su amor y su odio y su envidia fenecieron ya; y nunca más tendrán parte en todo lo que se hace debajo del sol” (Eclesiastés 9:5-6).
+
+ La Biblia es clara al respecto: solo aquel que nos dio la vida puede hablar de la muerte como tal, y asimismo abrió la puerta de la esperanza para quienes en Él creen. Entonces, ¿qué es la muerte para nosotros? Tan sólo un sueño prolongado al que todos llegaremos y del cual un día todos despertaremos; pero solo nuestras decisiones del presente nos dirán si despertaremos tan sólo para sufrir un sueño eterno y final, o despertaremos para vivir eternamente, la anhelada resurrección para vida eterna.
+
+ Autor: Sadith Cotrado
+
+    [![Publicar en DA](/content/images/2020/06/Publicar_DA.png)](/quieres-publicar-en-da/) 

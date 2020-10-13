@@ -1,0 +1,45 @@
+{{ define "main" }}
+<article class="wrapper">
+    <div class="row row--full">
+        <div class="post-list">
+
+            {{ $paginator := .Paginate .Pages  6 }}
+            {{ range $paginator.Pages }}
+            <div class="post-card-wrap column medium-6 large-4">
+                <div class="post-card">
+
+                    {{ $featuring := 0 }}
+
+                    {{ if (in .Params.image "http") }}
+                    {{ $featuring = .Params.image }}
+                    {{ else if (in .Params.image "/content/")  }}
+                    {{ $featuring = .Params.image }}
+                    {{ else }}
+                    {{ $featuring = path.Join  "/" .Site.Params.mediaDIR .Params.image }}
+                    {{ end }}
+
+                    <a href="{{ .RelPermalink }}"
+                        class="js-fadein post-card__image FlexEmbed FlexEmbed--4by3 is-inview full-visible"
+                        style='background-image: url("{{ $featuring }}")'>
+                    </a>
+
+                    <a href="{{ .RelPermalink }}" class="block post-card__info">
+                        <div class="post-card__meta">
+                            <time class="post-card__meta__date sans-serif uppercase"
+                                datetime="{{ .Params.date.Format "02-01-2006" }}">{{ .Params.date.Format "2 January 2006" }}</time>
+                        </div>
+
+                        <h2 class="post-card__title">
+                            {{ .Params.title }}
+                        </h2>
+                    </a>
+                </div>
+
+            </div>
+            {{ end }}
+
+        </div>
+    </div>
+    {{ partial "pagination.html" . }}
+</article>
+{{ end }}

@@ -1,0 +1,72 @@
+---
+title: "Armagedon Ubicacion Y Significado"
+slug: "armagedon-ubicacion-y-significado"
+date: 2018-06-18T09:30:16.000Z
+draft: false
+image: "/content/images/2018/05/Armagedon-ubicacion-Significado.png"
+tags : [
+    "armagedon",
+"escaton",
+"escatologia",
+"tiempos-escatologicos",
+
+]
+type: "post"
+---
+
+   A causa de que la sexta plaga de Apocalipsis 16:12-16 contiene referencias específicas a determinados sitios geográficos, el Éufrates y Armagedón, se le concedió mayor atención que a las plagas precedentes que se refieren de un modo más general a las úlceras, la sangre, el calor y la oscuridad. Ante el gran interés en estas referencias geográficas, se debiera examinar con mayor detalle la ubicación y la imaginería veterotestamentaria de la que surgen.
+
+ **La Babilonia histórica y el Éufrates**
+
+ El río Éufrates, mencionado en el versículo 12, es bien conocido y no hay problemas en identificar lo que representa. El curso del río nos conduce a la ciudad de Babilonia, y la referencia al secamiento de sus aguas nos remonta a un evento histórico en los tiempos del Antiguo Testamento, cuando la súbita reducción de su caudal contribuyó a la caída militar de Babilonia. Los ejércitos de Media y de Persia, en el este, marcharon para conquistar Babilonia en el mes de Tisri (Octubre) del año 539 AC, e ingresaron a la ciudad caminando por el lecho del Éufrates.
+
+ Según Herodoto[[1]](#fn1), los persas desviaron el Éufrates en canales que habían cavado y, de este modo, consiguieron entrar a la ciudad por el lecho del río. Si bien los persas posiblemente pudieron controlar la ciudad de Babilonia por este medio, es improbable que hubieran desarrollado el gran proyecto de ingeniería hidráulica que describe Herodoto. Las fechas de la Crónica de Nabonido arguyen en contra de un proyecto de esta magnitud. Ciro atacó al ejército babilonio en Opis, en el Tigris, a principios de Tisri.[[2]](#fn2) Luego cayó Sippar, el 14 de Tisri, y dos días después una división de las tropas de Ciro conquistó Babilonia.
+
+ No sólo las fechas vinculadas con esta campaña indican que los persas no se preocuparon por desarrollar un esquema tan elaborado como el que pinta Herodoto, sino que el mes en que ocurrió demuestra que tal estratagema era innecesaria. La corriente del Éufrates está en su mayor reflujo en Tisri, por lo que la misma naturaleza preparó la ruta del río para que los persas ingresaran en la ciudad. De este modo, un rey del este – Ciro – penetró victorioso en Babilonia gracias a la bajante de las aguas del Éufrates. Este episodio condujo a la liberación del pueblo de Dios, porque Ciro fue, el que permitió que los judíos en el exilio regresaran a su tierra (Esd. 1-2).
+
+ Todos estos eventos fueron descriptos proféticamente en Isaías 44: 24-45: 6. En estos textos, Yahveh habló a las aguas y benefició a Ciro: “¡Sécate! Yo desecaré tus ríos” (Isa. 44: 27, BJ). Por lo tanto, la caída no se produjo gracias a la ingeniería persa, sino por el decreto del Dios que ejerce la soberanía sobre la naturaleza. En estos eventos Ciro actuó como agente de Yahveh, y por esta razón se designó como el pastor ungido por Yahveh. Dios también prometió “abrir delante de él las puertas, y las puertas no se cerrarán… quebrantaré puertas de bronce, y cerrojos de hierro haré pedazos” (Isa. 45: 1, 2). Nunca se determinó cómo se abrieron las puertas que daban al río. A causa de que Nabonido era un rey impopular en Babilonia, se conjeturó que hubo conspiradores dentro de la ciudad que abrieron las puertas a los conquistadores. Otra posibilidad puede ser la perspectiva que se ofrece en Isaías 45: 1, 2, por lo que el interrogante podría ser si la misma mano que escribió en la pared del palacio, en la misma noche que cayó Babilonia (Dan. 5: 5, 25), abrió las puertas de la ciudad a los persas.
+
+ Cuando se considera la analogía de Apocalipsis 16: 12 con el histórico secamiento del río Éufrates, aparece un hecho medular: la fraseología de Apocalipsis se refiere a la venida de una figura mesiánica que, en virtud de su victoria, liberará al pueblo de Dios.
+
+ **Las “aguas de Meguido” y el “monte de Meguido”**
+
+ El pasaje que se refiere a la sexta plaga no describe una batalla, sólo los preparativos para ella. En los aprestos para la próxima batalla del “gran día del Dios Todopoderoso” (Apoc. 16:14), se reúnen las fuerzas de una triple coalición maligna en el lugar que en hebreo se llama Armagedón” (Apoc. 16: 16). En el pasaje que se refiere al comienzo de la plaga, debe observarse la diferencia entre la figura revelada aquí y la que se emplea en el caso del secamiento del Éufrates. El río que desciende por el valle de Jezreel y pasa junto a Meguido hacia el mar, no es el Éufrates, sino el Cisón. A su vez, es Babilonia, y no Meguido, la ciudad que está ubicada junto al Éufrates en Mesopotamia. Esta mezcla de metáforas históricas pareciera ser intencional, y debería comunicarnos algo acerca de la naturaleza de la batalla del gran día del Dios Todopoderoso que sigue a esta plaga. Esto mismo debería advertir al comentador contra el excesivo literalismo de interpretar estas referencias en un marco de entidades políticas actuales en el Medio Oriente o en otra parte.
+
+ La analogía profética o la lección que se extrae de este marco histórico del Armagedón sólo puede determinarse luego de que se precise cuál es el lugar al que se refiere. Lamentablemente, esto no ha sido fácil, y hubo grandes discrepancias entre los comentadores bíblicos, como lo dice G. E. Ladd[[3]](#fn3): “El vocablo ‘Armagedón’ es difícil de interpretar; el equivalente hebreo sería har-megidon (el monte de Meguido). El problema es que Meguido no es un monte, sino una llanura ubicada entre el Mar de Galilea y el Mediterráneo, es parte del Valle de Jezreel (Esdraelón). Fue un famoso campo de batalla en la historia de Israel. En Meguido, Débora y Barac derrotaron al cananeo Jabin (Jue. 5: 19); Jehú mató a Ocozías (2 Rey. 8: 27; véase además 2 Rey. 23: 29; 2 Crón. 35: 22). No es claro por qué Juan se refiere al Monte Meguido. R. H. Charles dice que en la literatura hebrea no hay una interpretación convincente que aclare esta frase… Pero cualquiera sea la procedencia del nombre, lo evidente es que Juan menciona con el nombre de Armagedón el lugar de la batalla final entre los poderes del mal y del reino de Dios”.
+
+ Una atención más estrecha a la geografía de Palestina hubiera ayudado a evitar la trampa en la que cayeron Ladd y otros comentadores. Si bien Meguido no era un monte ni tampoco una planicie, era una ciudad. Como tal, estaba ubicada en la llanura o en el valle denorrrinado Jezreel o Esdraelón. La ciudad no es la que da el nombre al valle, y tampoco recibe su nombre por el valle en que está ubicada. Sin embargo, es posible identificar diferentes aspectos de la topografía de los alrededores de las ciudades antiguas denominándolas según el nombre de la ciudad (práctica muy común en hebreo), y cuando se lo hace se emplea una construcción lingüística concatenada expresada por un genitivo posesivo. Este es el caso de Jueces 5: 19, que ubica el campo de batalla donde las fuerzas de Jabin y Sísara encontraron a las de Débora y Barac en la vecindad de las “aguas de Meguido”.
+
+ ¿Cuáles son las “aguas de Meguido”? Un vistazo fugaz a la topografía del Valle de Jezreel y una lectura al canto de Débora, es suficiente para identificarlos. Meguido estaba ubicada en el sector sur de la llanura de Esdraelón, y el curso de agua que recorría el valle, y también Meguido, era el Wadi Cisón. En verdad, la identificación del “torrente de Cisón” con “las aguas de Meguido” se establece claramente en Cantico de Débora (compare Jue. 5: 21 con 5: 19).
+
+ El punto aquí es que Yahveh, el Dios que lo controla todo y emplea los elementos de la naturaleza para que sirvan a sus propósitos, trajo la tormenta de lluvia que anegó el Cisón y lo desbordó. La lluvia y el río desbordado transformaron el valle de Jezreel en un lodazal donde los carros cananeos se empantanaron y no pudieron maniobrar. De este modo, Dios le dio a su pueblo una gran victoria junto a las “aguas de Meguido”.
+
+ Por analogía con este marco histórico y con la cadena constructiva del genitivo posesivo, “las aguas de Meguido” y el “monte de Meguido” debieran estar cerca de la ciudad. Meguido estaba ubicada al pie de la falda norte de la zona a la que los geógrafos modernos de Palestina denominan comúnmente como la cadena montañosa del Carmelo. Sin embargo, la Biblia no utiliza jamás esta terminología específica. La referencia al Carmelo aparece veinte veces en el Antiguo Testamento, y en dieciséis de ellas aparece como un nombre de lugar sin estar conectado con un determinativo como “monte” o “montañas”. En tres de las dieciséis veces se lo compara poéticamente con Basán y Transjordania (Isa. 33: 9; Jer. 50:1 9 y Neh. 1: 4), y en una ocasión se lo compara con Sarón, la planicie que se extiende hacia el sur (Isa. 35: 2).
+
+ En cuatro ocasiones se identifica al Carmelo con determinativos, que siempre están en singular: “el monte de Carmeio” o “Monte Carmelo” (nunca “los montes de Carmelo”). Dos de estas referencias relatan la experiencia de Elías (1 Rey. 18: 19, 20), y otras dos surgen de la narración referente a Ellas (2 Rey. 2: 25; 4: 25). Así como la expresión “las aguas de Meguido” se refiere al río que corre junto a Meguido, pero al que se lo conoce con otro nombre (Wadi Cisón), también el “monte de Meguido”, bien podría identificarse con la montaña vecina a Meguido, aunque se la conoce con otro nombre: el Monte Carmelo. Sobre la base de esta proximidad geográfica, así como la analogía histórica y textual, “el monte de Meguidó(n)” en Apocalipsis 16: 16 puede identificarse con el Monte Carmelo.
+
+ **La antigua batalla en el monte de Meguido y la analogía con Apocalipsis 16:16**
+
+ El monte de Meguido, en Apocalipsis 16: 16, no sólo podría identificarse con el Monte Carmelo desde una perspectiva geográfica, sino que también se podría establecer una conexión histórica. Así como la imagen del secamiento del Éufrates se extrae de una batalla histórica en tiempos de Ciro, por la que se conquistó Babilonia, y así como la batalla junto a las aguas de Meguido se refiere a una batalla específica y famosa en el valle de Jezreel, así también el Monte Carmelo fue el sitio de otra batalla histórica famosa en la Escritura: la batalla entre Elías y los profetas de Baal (1 Rey. 18). Esta batalla no se libró empleando la fuerza de las armas, sino que, por el contrario, fue un conflicto intensamente espiritual. Esta es la batalla de la que puede extraerse la imagen de la cual depende “la batalla de Armagedón” en Apocalipsis. Todos los principales elementos posteriores tienen un paralelismo con 1 Reyes 18 en una forma histórica concreta.
+
+ Si el dragón de Apocalipsis 16: 13 representa el poder del estado civil de un modo u otro, entonces ese poder lo representó Acab en el conflicto del Monte Carmelo. Si la bestia de Apocalipsis 16: 13 está vinculada con la de Apocalipsis 13 y con la mujer impura de Apocalipsis 17, 18 como una manifestación de religión apóstata, entonces ese elemento lo representó Jezabel en el encuentro en el monte Carmelo (véase además la referencia a Jezabel en Apoc. 2: 20). Por supuesto, se admite que Jezabel, de acuerdo con 1 Reyes 1 9: 1, no estuvo presente en la lucha, aunque fue ella la que, como princesa fenicia y reina de Israel, inculcó el culto a Baal en la urdimbre y la trama de la vida del reino del norte. El tercer elemento que une sus fuerzas al monte Meguido, según Apocalipsis 16: 13, sería el falso profeta. Esta es la primera vez que la expresión “falso profeta” aparece en el libro de Apocalipsis. Los falsos profetas fueron claramente representados en el monte Carmelo, allí había 850 de ellos (1 Rey. 18: 19). Elías, como puede notarse, salió del este, desde Tisbe en Galaad.
+
+ Finalmente, el fuego que descendió de Dios y consumió el sacrificio de Elías y todo lo que lo rodeaba, terminó con la contienda sobre el Monte Carmelo. Los profetas de Baal fueron pasados por la espada en el Wadi Cisón. Una vez más, debe enfatizarse que la sexta plaga no describe la lucha real de una batalla, sólo los preparativos para la contienda. El dragón, la bestia y el falso profeta llaman a todos sus seguidores a reunirse en el Monte de Meguido, así como Elías citó a Acab y a todo Israel en el monte Carmelo para librar la contienda. Sin embargo, la batalla que se prepara en el transcurso de la sexta plaga se libra en Apocalipsis 19: 11-21. Esta es la batalla de Armagedón, o más apropiadamente, la “batalla del gran día del ¡Dios Todopoderoso” (Apoc. 16: 14). Esta batalla se peleará cuando Cristo venga del cielo como Rey de Reyes y Señor de Señores junto con su ejército de huestes celestiales. Y la victoria se alcanzará de un modo similar, por el fuego que caerá y consumirá a la bestia y al falso profeta (Apoc. 19: 21), y por la espada que terminará con sus seguidores (vers. 21). Esta espada utilizada como en los tiempos de Elías, es la espada que sale de la boca del Rey de Reyes (vers. 15, 21).
+
+ Sobre la base de la analogía con el marco histórico del Antiguo Testamento que proporcionan las imágenes de Apocalipsis 16: 16, este conflicto final debiera ser fundamental y esencialmente un conflicto espiritual, en el que los principales contendientes son seres sobrenaturales: Cristo y su archienemigo, “el gran dragón, la serpiente antigua, que se llama diablo y Satanás, el cual engaña al mundo entero” (Apoc. 12: 9). El desafío para el pueblo de Dios en ese tiempo será el que confrontó Elías cuando oró ante la asamblea: “Jehová Dios de Abrahán, de Isaac y de Israel, sea hoy manifiesto que tú eres Dios en Israel,… para que conozca este pueblo que tú, oh Jehová, eres el Dios, y que tú vuelves a ti el corazón de ellos” (1 Rey. 36, 37). Y la respuesta de fidelidad en ese tiempo encontrará una expresión adecuada en la aclamación de la asamblea reunida en el Carmelo: “¡Jehová es el Dios, Jehová es el Dios!” (vers. 39).
+
+ Autor: William H. Shea
+
+ **Referencias**
+
+   
+ 2. Los nueve libros de la historia, Madrid, Hyspamérica, 1982 , págs. 72-74. [↩︎](#fnref1)
+
+ 
+ 4. véase A. L. Oppen heim, “Babyionian and Assyrian and Historical Texts”, ANET [Ancient Near Eastern Texts], pág. 306. [↩︎](#fnref2)
+
+ 
+ 6. G. E. Ladd, A. Commentary on the Revelatión of John, [Grand Rapids, Mich., 1972], Pág. 216. [↩︎](#fnref3)
+
+ 
+ 
+     [![Publicar en DA](/content/images/2020/06/Publicar_DA.png)](/quieres-publicar-en-da/) 

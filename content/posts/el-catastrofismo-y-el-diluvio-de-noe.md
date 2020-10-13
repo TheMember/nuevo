@@ -1,0 +1,25 @@
+---
+title: "El Catastrofismo Y El Diluvio De Noe"
+slug: "el-catastrofismo-y-el-diluvio-de-noe"
+date: 2018-04-28T07:45:37.000Z
+draft: false
+image: "/content/images/2018/04/Arqueologia-Biblica-Defensa-Adventista-1.png"
+tags : [
+    "catastrofismo",
+"diluvio",
+
+]
+type: "post"
+---
+
+   En esta época, es alarmante la forma como está en tela de jui­cio la veracidad y la inspiración de la Biblia por la gran mayoría de personas, incluso entre los profesos cristianos. Algunas causas de escepticismo son las especulacio­nes científicas en cuanto a la exis­tencia de Dios. Basados en el Método Cientí­fico, hombres de ciencia modernos enseñan que los acontecimientos mencionados en la Biblia como la creación y el diluvio, no pueden ser comprobados científica­mente, que son fábulas supersticiosas usadas para engañar. El factor fe no es medible. Jesús bien lo dijo: “…bien­aventurados los que no vieron, y creye­ron” ( Juan 20:29). Tomaré como ejem­plo el diluvio como estudio científico que demuestra la veracidad de la Biblia.
+
+ *El catastrofismo* es una corriente de pensamiento que va en completa discrepancia con el evolucionismo con respecto a la ocurrencia de un diluvio. Hay muchos argumentos en contra del creacionismo que son apoyo fuerte de los evolucionistas, como la existen­cia de la tierra desde hace millones de años. No obstante, basados en la Biblia, el Espíritu de Profecía y en algunos da­tos científicos, se demostrará que todo esto tiene su explicación en la mayor catástrofe ocurrida en la historia de nuestro planeta: el diluvio. El Doctor Walter Brown, director del Laborato­rio de Investigación del Departamen­to de Defensa de los Estados Unidos afirma que hay trece fenómenos ex­traños que ahora se pueden explicar sistemáticamente: el resultado de una inundación cataclísmica, formación de las montañas más altas, los depósitos de carbón y petróleo, el rápido des­plazamiento continental, la existencia de precipicios, abismos y volcanes en el suelo del océano, la formación de los estratos y fósiles, la edad de hielo, la formación de los principales caño­nes de tierra como el Gran Cañón, los cambios climáticos, la extinción de al­gunas especies animales, la formación de los lagos postdiluvianos, la cordi­llera interoceánica, el incremento de la actividad sísmica y volcánica.
+
+ Todos estos fenómenos tienen su explicación en el primer fenómeno. Muchos se preguntan ¿de dónde sa­lió tanta agua? Pero la Biblia dice que cuando Dios creó la expansión en el segundo día, separó “las aguas de las aguas… y separó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión” (Gé­nesis 1:6, 7). Esto significa que antes del diluvio no existía la capa de ozono que existe hoy sino que existía una gran capa de hidrógeno la cual regulaba el clima del planeta apropiado para la vida humana, ni tampoco los grandes y profundos océanos y mares que existen hoy. Pero no solo había agua arriba sino en las profundidades de la tierra ya que la Biblia nos dice que “aquel día fueron rotas todas las fuentes del grande abis­mo, y las cataratas de los cielos fueron abiertas” (Génesis 7:11). La tierra an­tes del diluvio tenía solo un gran continente cubierto con exuberante vegetación. De acuerdo a la “teoría de la hidroplaca”, la tierra antes del diluvio te­nía mucha agua subterránea, más o menos la mitad de la que ahora está en los océanos. Esta agua estaba con­centrada en cámaras subterráneas de agua o acuíferos a unos 16 km de la su­perficie de la tierra. La presión de esta agua subterránea expandió la corteza de la superficie así como cuando un globo se infla cuando aumenta la presión inte­rior. Esto produjo un resquebrajamiento en la corteza exterior que debido a la presión subterránea comenzó a expan­dirse liberando así grandes torrentes de agua que alcanzaron hasta 32 km de altura. Esto está apoyado por la Inspi­ración que nos dice que “torrentes de aguas brotaban de la tierra con fuerza indescriptible, arrojando al aire, a cente­nares de pies, macizas rocas, que al caer se sepultaban profundamente en el sue­lo.” “Las aguas brotaron de la tierra y se unieron a las aguas del cielo para llevar a cabo la obra de desolación” (Patriarcas y Profetas, págs., 87, 100). Así que, tanto el agua de arriba como la subterránea die­ron como resultado la gran cantidad de agua que fue capaz de cubrir los montes más altos hasta unos 15 codos de altu­ra [6,7 m aproximadamente] (Génesis 7:19,20; Ibid. 95).
+
+ Las evidencias bíblicas y científicas son claras en cuanto a la existencia de un diluvio. El que cierre sus ojos ante tan abundante evidencia es porque no quiere ver más allá de su nariz. El mun­do antiguo fue destruido por agua de­bido a la maldad de los hombres. Así nosotros, si seguimos su ejemplo esta­mos “reservados por la mis­ma palabra, guardados para el fuego en el día del juicio y de la perdición de los hombres impíos (2 Ped. 3:5-7).
+
+ Autor: Daniel M.
+
+    [![Publicar en DA](/content/images/2020/06/Publicar_DA.png)](/quieres-publicar-en-da/) 
